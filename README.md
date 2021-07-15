@@ -7,7 +7,7 @@ I'm a **Full Stack Developer** and I love to learn new stuff. 📖
 - 🔭 I’m currently working with MERN.
 - 🌱 I’m currently learning GraphQL.
 
-Technologies:
+Languages:
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
