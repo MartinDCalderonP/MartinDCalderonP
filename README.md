@@ -5,7 +5,7 @@ My name is Martín and I live in Buenos Aires, Argentina. 🇦🇷
 I'm a **Full Stack Developer** and I love to learn new stuff. 📖
 
 - 🔭 I’m currently working with MERN.
-- 🌱 I’m currently learning GraphQL.
+- 🌱 I’m currently learning about Testing & React Native
 
 Languages:
 
