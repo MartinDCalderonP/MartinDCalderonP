@@ -2,7 +2,7 @@
 
 My name is Martín and I live in Buenos Aires, Argentina. 🇦🇷
 
-I'm a **Full Stack Developer** since 2020 and I love to learn new stuff. 📖
+I'm a **Front End Developer** since 2020 and I love to learn new stuff. 📖
 
 # ***Portfolio***
 
